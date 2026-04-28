@@ -6,3 +6,4 @@
 - [2026-04-06T13:35:41Z] fix: resolve edge case in input validation
 - [2026-04-06T08:27:16Z] feat: add helper utility function
 - [2026-04-06T10:44:41Z] chore: update dependencies to latest versions
+- [2026-04-28T15:14:41Z] fix: handle null pointer exception
